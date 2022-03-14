@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pieromarraffa/Desktop/VisualStudio/PrimoProgetto/PrimoProgetto/PrimoProgetto.csproj",
+      "projectUniqueName": "/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/PrimoProgetto.csproj",
       "projectName": "PrimoProgetto",
-      "projectPath": "/Users/pieromarraffa/Desktop/VisualStudio/PrimoProgetto/PrimoProgetto/PrimoProgetto.csproj",
+      "projectPath": "/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/PrimoProgetto.csproj",
       "packagesPath": "/Users/pieromarraffa/.nuget/packages/",
-      "outputPath": "/Users/pieromarraffa/Desktop/VisualStudio/PrimoProgetto/PrimoProgetto/obj/",
+      "outputPath": "/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pieromarraffa/.config/NuGet/NuGet.Config"
