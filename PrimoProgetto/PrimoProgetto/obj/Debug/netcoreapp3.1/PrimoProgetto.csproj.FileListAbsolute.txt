@@ -1,0 +1,13 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/bin/Debug/netcoreapp3.1/PrimoProgetto.deps.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/bin/Debug/netcoreapp3.1/PrimoProgetto.runtimeconfig.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/bin/Debug/netcoreapp3.1/PrimoProgetto.runtimeconfig.dev.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/bin/Debug/netcoreapp3.1/PrimoProgetto.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/bin/Debug/netcoreapp3.1/PrimoProgetto.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/obj/Debug/netcoreapp3.1/PrimoProgetto.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/obj/Debug/netcoreapp3.1/PrimoProgetto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/obj/Debug/netcoreapp3.1/PrimoProgetto.AssemblyInfoInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/obj/Debug/netcoreapp3.1/PrimoProgetto.AssemblyInfo.cs
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/obj/Debug/netcoreapp3.1/PrimoProgetto.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/obj/Debug/netcoreapp3.1/PrimoProgetto.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/obj/Debug/netcoreapp3.1/PrimoProgetto.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/PrimoProgetto/PrimoProgetto/obj/Debug/netcoreapp3.1/PrimoProgetto.genruntimeconfig.cache
