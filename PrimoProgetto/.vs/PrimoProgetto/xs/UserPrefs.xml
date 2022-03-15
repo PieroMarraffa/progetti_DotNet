@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{6DC40891-14B9-4A0A-B288-55C92CD2F88B}|Default">
   <MonoDevelop.Ide.ItemProperties.PrimoProgetto PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PrimoProgetto/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimoProgetto/AltroFile.cs">
     <Files>
-      <File FileName="PrimoProgetto/Program.cs" Line="12" Column="2" />
-      <File FileName="PrimoProgetto/AltroFile.cs" />
-      <File FileName="EmptyClass.cs" />
+      <File FileName="PrimoProgetto/Program.cs" Line="7" Column="40" />
+      <File FileName="PrimoProgetto/AltroFile.cs" Line="26" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +11,7 @@
           <Node name="PrimoProgetto" expanded="True">
             <Node name="Solution Items" expanded="True" />
             <Node name="PrimoProgetto" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="AltroFile.cs" selected="True" />
             </Node>
           </Node>
         </State>
