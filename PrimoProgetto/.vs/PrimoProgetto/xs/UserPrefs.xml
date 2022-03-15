@@ -1,16 +1,16 @@
-﻿<Properties StartupConfiguration="{DD398875-79D1-489B-BD3E-D1EC9BCF9298}|Default">
+﻿<Properties StartupConfiguration="{6DC40891-14B9-4A0A-B288-55C92CD2F88B}|Default">
   <MonoDevelop.Ide.ItemProperties.PrimoProgetto PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="../Classe2/EmptyCSharpFile.cs">
     <Files>
       <File FileName="PrimoProgetto/Program.cs" Line="7" Column="33" />
-      <File FileName="PrimoProgetto/AltroFile.cs" Line="43" Column="1" />
-      <File FileName="../Classe2/EmptyCSharpFile.cs" Line="8" Column="42" />
+      <File FileName="PrimoProgetto/AltroFile.cs" Line="26" Column="97" />
+      <File FileName="../Classe2/EmptyCSharpFile.cs" Line="13" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PrimoProgetto" expanded="True">
-            <Node name="Classe2" expanded="True" selected="True" />
+          <Node name="PrimoProgetto" expanded="True" selected="True">
+            <Node name="Classe2" expanded="True" />
             <Node name="PrimoProgetto" expanded="True" />
           </Node>
         </State>

@@ -2,9 +2,12 @@
  DATA: 15-3-2022*/
 using System;
 
-public class Prova{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine("Hello World");
+namespace test
+{
+    public class Prova{
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World");
+        }
     }
 }
