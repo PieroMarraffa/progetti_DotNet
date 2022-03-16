@@ -54,5 +54,12 @@ namespace EnnesimoProgetto2
             double quoziente = num1 / num2;
             return quoziente;
         }
+
+        public double rapportoArrotondato(double num1, double num2)
+        {
+            double quoziente = num1 / num2;
+            quoziente = Math.Round(quoziente, 3);
+            return quoziente;
+        }
     }
 }

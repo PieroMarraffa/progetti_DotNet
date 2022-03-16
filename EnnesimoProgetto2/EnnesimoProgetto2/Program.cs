@@ -21,6 +21,7 @@ namespace EnnesimoProgetto2
             Console.WriteLine("LA DIFFERENZA È: " + calcolatrice.differenza(num1, num2));
             Console.WriteLine("IL PRODOTTO È: " + calcolatrice.prodotto(num1, num2));
             Console.WriteLine("IL RAPPORTO È: " + calcolatrice.rapporto(num1, num2));
+            Console.WriteLine("IL RAPPORTO ARROTONDATO È: " + calcolatrice.rapportoArrotondato(num1, num2));
         }
     }
 }
