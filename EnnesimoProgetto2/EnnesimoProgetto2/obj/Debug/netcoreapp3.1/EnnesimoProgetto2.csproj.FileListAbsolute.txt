@@ -1,0 +1,13 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/bin/Debug/netcoreapp3.1/EnnesimoProgetto2.deps.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/bin/Debug/netcoreapp3.1/EnnesimoProgetto2.runtimeconfig.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/bin/Debug/netcoreapp3.1/EnnesimoProgetto2.runtimeconfig.dev.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/bin/Debug/netcoreapp3.1/EnnesimoProgetto2.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/bin/Debug/netcoreapp3.1/EnnesimoProgetto2.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/obj/Debug/netcoreapp3.1/EnnesimoProgetto2.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/obj/Debug/netcoreapp3.1/EnnesimoProgetto2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/obj/Debug/netcoreapp3.1/EnnesimoProgetto2.AssemblyInfoInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/obj/Debug/netcoreapp3.1/EnnesimoProgetto2.AssemblyInfo.cs
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/obj/Debug/netcoreapp3.1/EnnesimoProgetto2.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/obj/Debug/netcoreapp3.1/EnnesimoProgetto2.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/obj/Debug/netcoreapp3.1/EnnesimoProgetto2.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EnnesimoProgetto2/EnnesimoProgetto2/obj/Debug/netcoreapp3.1/EnnesimoProgetto2.genruntimeconfig.cache
