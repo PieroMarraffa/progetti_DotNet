@@ -216,13 +216,14 @@ namespace gestioneCodiceFiscale
         public string getGender()
         {
             int dayBirth = int.Parse(this.cf.Substring(9, 2));
+            Console.WriteLine(dayBirth);
             if (dayBirth > 40)
             {
-                return "gender is: FEMALE";
+                return "FEMALE";
             }
             else
             {
-                return "gender is: MALE";
+                return "MALE";
             }
         }
     }
