@@ -15,13 +15,10 @@ namespace gestioneCodiceFiscale
                 Console.WriteLine("ATTENZIONE LUNGHEZZA ERRATA!!!");
                 Console.WriteLine("Reinserisci il tuo codice fiscale: ");
                 cf = Console.ReadLine();
+                cod.setCodFiscale(cf);
             }
 
             cod.getBirthDate();
-            Console.WriteLine("Inserisci il giorno odierno (GG/MM/AAAA): ");
-            string today = Console.ReadLine();
-            cod.getAge(today);
-            cod.getGender();
 
         }
     }

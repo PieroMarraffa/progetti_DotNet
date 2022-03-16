@@ -54,17 +54,18 @@ namespace gestioneCodiceFiscale
             }
 
             string yearBirth = this.cf.Substring(6, 2);
+            int yearBirthCipher = int.Parse(yearBirth);
 
-            if(int.Parse(yearBirth) < 30)
+            if(yearBirthCipher < 30)
             {
-                yearBirth = yearBirth + 2000;
+                yearBirthCipher = yearBirthCipher + 2000;
             }
             else
             {
-                yearBirth = yearBirth + 1900;
+                yearBirthCipher = yearBirthCipher + 1900;
             }
 
-            string monthBirth = this.cf.Substring(8, 2);
+            string monthBirth = this.cf.Substring(8, 1);
             if(monthBirth == "A")
             {
                 monthBirth = "Genuary";
