@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{6E09A220-B557-4BF2-B506-2B92816FFBC0}|Default">
   <MonoDevelop.Ide.ItemProperties.EnnesimoProgetto2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EnnesimoProgetto2/Calcolatrice.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnnesimoProgetto2/Program.cs">
     <Files>
-      <File FileName="EnnesimoProgetto2/Program.cs" Line="23" Column="72" />
-      <File FileName="EnnesimoProgetto2/Calcolatrice.cs" Line="55" Column="30" />
+      <File FileName="EnnesimoProgetto2/Program.cs" Line="24" Column="95" />
+      <File FileName="EnnesimoProgetto2/Calcolatrice.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Calcolatrice" expanded="True" selected="True">
-            <Node name="EnnesimoProgetto2" expanded="True" />
+          <Node name="Calcolatrice" expanded="True">
+            <Node name="EnnesimoProgetto2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

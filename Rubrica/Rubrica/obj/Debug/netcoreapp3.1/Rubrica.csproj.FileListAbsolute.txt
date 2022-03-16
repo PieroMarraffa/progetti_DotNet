@@ -1,0 +1,13 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/bin/Debug/netcoreapp3.1/Rubrica.deps.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/bin/Debug/netcoreapp3.1/Rubrica.runtimeconfig.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/bin/Debug/netcoreapp3.1/Rubrica.runtimeconfig.dev.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/bin/Debug/netcoreapp3.1/Rubrica.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/bin/Debug/netcoreapp3.1/Rubrica.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/obj/Debug/netcoreapp3.1/Rubrica.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/obj/Debug/netcoreapp3.1/Rubrica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/obj/Debug/netcoreapp3.1/Rubrica.AssemblyInfoInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/obj/Debug/netcoreapp3.1/Rubrica.AssemblyInfo.cs
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/obj/Debug/netcoreapp3.1/Rubrica.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/obj/Debug/netcoreapp3.1/Rubrica.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/obj/Debug/netcoreapp3.1/Rubrica.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Rubrica/Rubrica/obj/Debug/netcoreapp3.1/Rubrica.genruntimeconfig.cache
