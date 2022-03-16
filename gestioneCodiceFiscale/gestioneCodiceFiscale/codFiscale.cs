@@ -115,26 +115,21 @@ namespace gestioneCodiceFiscale
                 monthBirth = "December";
             }
 
-            Console.WriteLine(dayBirth);
-            Console.WriteLine(monthBirth);
-            Console.WriteLine(yearBirthCipher);
-
-            Console.WriteLine("your birth date is: " + dayBirth.ToString() + "" + monthBirth.ToString() + "" + yearBirthCipher.ToString());
-
             string toReturn = dayBirth.ToString() + "/" + monthBirth.ToString() + "/" + yearBirthCipher.ToString();
             return toReturn;
 
-
         }
 
-        //PER STUDIARE L'ETÀ DEVO ANDARE A CONFRONTARE LA DATA DI NASCITA CON IL GIORNO ODIERNO
+        //PER STUDIARE L'ETÀ DEVO ANDARE A CONFRONTARE LA DATA DI NASCITA CON IL GIORNO ODIERNO GG/MM/AAAA
         //SE MESE O GIORNO DI NASCITA SONO MINORI O UGUALI ALL'ODIERNO ALLORA L'ETÀ SARÀ L'ANNO ODIERNO - L'ANNO DI NASCITA
         //SE IL MESE O IL GIORNO DI NASCITA SONO MAGGIORI ALL'ODIERNO ALLORA L'ETÀ È ANNO ODIERNO - ANNO DI NASCITA - 1
-        public string getAge(string today)
+        public string getAge()
         {
-            int day = int.Parse(today.Substring(0, 2));
-            int month = int.Parse(today.Substring(3, 2));
-            int year = int.Parse(today.Substring(5, 4));
+            DateTime today = DateTime.Now;
+            int day = today.Day;
+            int month = today.Month;
+            int year = today.Year;
+
 
             int dayBirth = int.Parse(this.cf.Substring(9, 2));
             if (dayBirth > 40)
@@ -213,7 +208,7 @@ namespace gestioneCodiceFiscale
                 age = year - yearBirth - 1;
             }
 
-            return "the age is: " + age + " years";
+            return age.ToString();
         }
 
 
