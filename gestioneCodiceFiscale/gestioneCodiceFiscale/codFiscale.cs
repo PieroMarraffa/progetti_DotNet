@@ -115,7 +115,15 @@ namespace gestioneCodiceFiscale
                 monthBirth = "December";
             }
 
-            return "your birth date is: " + dayBirth + monthBirth + yearBirth;
+            Console.WriteLine(dayBirth);
+            Console.WriteLine(monthBirth);
+            Console.WriteLine(yearBirthCipher);
+
+            Console.WriteLine("your birth date is: " + dayBirth.ToString() + "" + monthBirth.ToString() + "" + yearBirthCipher.ToString());
+
+            string toReturn = dayBirth.ToString() + "/" + monthBirth.ToString() + "/" + yearBirthCipher.ToString();
+            return toReturn;
+
 
         }
 

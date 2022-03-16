@@ -18,7 +18,8 @@ namespace gestioneCodiceFiscale
                 cod.setCodFiscale(cf);
             }
 
-            cod.getBirthDate();
+            string birthDate = cod.getBirthDate();
+            Console.WriteLine(birthDate);
 
         }
     }
