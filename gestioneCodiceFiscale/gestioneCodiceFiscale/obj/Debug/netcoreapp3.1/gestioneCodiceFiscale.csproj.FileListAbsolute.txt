@@ -1,0 +1,13 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/obj/Debug/netcoreapp3.1/gestioneCodiceFiscale.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/obj/Debug/netcoreapp3.1/gestioneCodiceFiscale.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/obj/Debug/netcoreapp3.1/gestioneCodiceFiscale.AssemblyInfoInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/obj/Debug/netcoreapp3.1/gestioneCodiceFiscale.AssemblyInfo.cs
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/obj/Debug/netcoreapp3.1/gestioneCodiceFiscale.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/bin/Debug/netcoreapp3.1/gestioneCodiceFiscale.deps.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/bin/Debug/netcoreapp3.1/gestioneCodiceFiscale.runtimeconfig.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/bin/Debug/netcoreapp3.1/gestioneCodiceFiscale.runtimeconfig.dev.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/bin/Debug/netcoreapp3.1/gestioneCodiceFiscale.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/bin/Debug/netcoreapp3.1/gestioneCodiceFiscale.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/obj/Debug/netcoreapp3.1/gestioneCodiceFiscale.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/obj/Debug/netcoreapp3.1/gestioneCodiceFiscale.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/gestioneCodiceFiscale/gestioneCodiceFiscale/obj/Debug/netcoreapp3.1/gestioneCodiceFiscale.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{C1E4C108-5518-45C7-8A88-AEC7CDFAB8DE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Rubrica/gestioneRubrica.cs">
     <Files>
-      <File FileName="Rubrica/Program.cs" Line="1" Column="1" />
-      <File FileName="Rubrica/gestioneRubrica.cs" Line="7" Column="11" />
+      <File FileName="Rubrica/Program.cs" Line="19" Column="51" />
+      <File FileName="Rubrica/gestioneRubrica.cs" Line="11" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +16,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Rubrica FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Rubrica PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{381988B0-D67F-4A76-8845-AA1706EE708B}|Default">
+  <MonoDevelop.Ide.ItemProperties.gestioneCodiceFiscale FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="gestioneCodiceFiscale/codFiscale.cs">
+    <Files>
+      <File FileName="gestioneCodiceFiscale/Program.cs" Line="9" Column="13" />
+      <File FileName="gestioneCodiceFiscale/codFiscale.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gestioneCodiceFiscale" expanded="True">
+            <Node name="gestioneCodiceFiscale" expanded="True">
+              <Node name="codFiscale.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
