@@ -10,7 +10,7 @@ namespace gestioneCodiceFiscale
             string cf = Console.ReadLine();
 
             codFiscale cod = new codFiscale(cf);
-            while(cod.goodLenght() != true)
+            while (cod.goodLenght() != true)
             {
                 Console.WriteLine("ATTENZIONE LUNGHEZZA ERRATA!!!");
                 Console.WriteLine("Reinserisci il tuo codice fiscale: ");

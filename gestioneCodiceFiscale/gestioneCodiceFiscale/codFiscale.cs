@@ -2,7 +2,7 @@
 namespace gestioneCodiceFiscale
 {
     public class codFiscale
-        //BY PIERO MARRAFFA 16-03-2022
+    //BY PIERO MARRAFFA 16-03-2022
 
     {
         // ATTRIBUTI
@@ -33,7 +33,7 @@ namespace gestioneCodiceFiscale
         //IL CODICE FISCALE DEVE ESSERE DI 16 CIFRE
         public bool goodLenght()
         {
-            if(this.cf.Length == 16)
+            if (this.cf.Length == 16)
             {
                 return true;
             }
@@ -56,7 +56,7 @@ namespace gestioneCodiceFiscale
             string yearBirth = this.cf.Substring(6, 2);
             int yearBirthCipher = int.Parse(yearBirth);
 
-            if(yearBirthCipher < 30)
+            if (yearBirthCipher < 30)
             {
                 yearBirthCipher = yearBirthCipher + 2000;
             }
@@ -66,23 +66,23 @@ namespace gestioneCodiceFiscale
             }
 
             string monthBirth = this.cf.Substring(8, 1);
-            if(monthBirth == "A")
+            if (monthBirth == "A")
             {
                 monthBirth = "Genuary";
             }
-            else if(monthBirth == "B")
+            else if (monthBirth == "B")
             {
                 monthBirth = "February";
             }
-            else if(monthBirth == "C")
+            else if (monthBirth == "C")
             {
                 monthBirth = "March";
             }
-            else if(monthBirth == "D")
+            else if (monthBirth == "D")
             {
                 monthBirth = "April";
             }
-            else if(monthBirth == "E")
+            else if (monthBirth == "E")
             {
                 monthBirth = "May";
             }
@@ -90,19 +90,19 @@ namespace gestioneCodiceFiscale
             {
                 monthBirth = "June";
             }
-            else if(monthBirth == "L")
+            else if (monthBirth == "L")
             {
                 monthBirth = "July";
             }
-            else if(monthBirth == "M")
+            else if (monthBirth == "M")
             {
                 monthBirth = "August";
             }
-            else if(monthBirth == "P")
+            else if (monthBirth == "P")
             {
                 monthBirth = "September";
             }
-            else if(monthBirth == "R")
+            else if (monthBirth == "R")
             {
                 monthBirth = "October";
             }
@@ -203,7 +203,8 @@ namespace gestioneCodiceFiscale
             if (month < monthBirthCipher || (month == monthBirthCipher && day >= dayBirth))
             {
                 age = year - yearBirth;
-            } else
+            }
+            else
             {
                 age = year - yearBirth - 1;
             }

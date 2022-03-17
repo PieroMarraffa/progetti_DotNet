@@ -1,0 +1,13 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/bin/Debug/netcoreapp3.1/EsercizioSwitch.deps.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/bin/Debug/netcoreapp3.1/EsercizioSwitch.runtimeconfig.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/bin/Debug/netcoreapp3.1/EsercizioSwitch.runtimeconfig.dev.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/bin/Debug/netcoreapp3.1/EsercizioSwitch.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/bin/Debug/netcoreapp3.1/EsercizioSwitch.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/obj/Debug/netcoreapp3.1/EsercizioSwitch.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/obj/Debug/netcoreapp3.1/EsercizioSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/obj/Debug/netcoreapp3.1/EsercizioSwitch.AssemblyInfoInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/obj/Debug/netcoreapp3.1/EsercizioSwitch.AssemblyInfo.cs
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/obj/Debug/netcoreapp3.1/EsercizioSwitch.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/obj/Debug/netcoreapp3.1/EsercizioSwitch.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/obj/Debug/netcoreapp3.1/EsercizioSwitch.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/EsercizioSwitch/EsercizioSwitch/obj/Debug/netcoreapp3.1/EsercizioSwitch.genruntimeconfig.cache
