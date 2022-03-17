@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{A33DA48D-269C-412C-87C2-E9128AC22F82}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="EsercizioSwitch/Program.cs">
     <Files>
-      <File FileName="EsercizioSwitch/Program.cs" Line="9" Column="17" />
+      <File FileName="EsercizioSwitch/Program.cs" Line="38" Column="142" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.EsercizioSwitch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EsercizioSwitch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

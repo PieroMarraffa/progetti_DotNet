@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B67CAF74-D2F6-4AD5-8EB8-0C901E6B1102}|Default">
+  <MonoDevelop.Ide.ItemProperties.BancomatSimulator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BancomatSimulator/gestioneBancomat.cs">
+    <Files>
+      <File FileName="BancomatSimulator/Program.cs" Line="9" Column="1" />
+      <File FileName="BancomatSimulator/gestioneBancomat.cs" Line="5" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BancomatSimulator" expanded="True">
+            <Node name="BancomatSimulator" expanded="True">
+              <Node name="gestioneBancomat.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

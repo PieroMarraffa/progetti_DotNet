@@ -6,7 +6,6 @@ namespace EsercizioSwitch
     {
         static void Main(string[] args)
         {
-
             int scelta;
             Console.WriteLine("Inserisci 1 per l'addizione");
             Console.WriteLine("Inserisci 2 per la sottrazione");
@@ -34,6 +33,11 @@ namespace EsercizioSwitch
                         break;
                     case 0:
                         Console.WriteLine("hai scelto" + scelta);
+                        break;
+
+                        //USO IL DEFAULT PER GESTIRE L'EVENIENZA IN CUI CAPITO IN UN CASO NON INDICATO. SE NON PRESENTE IL CODICE PASSA OLTRE
+                    default:
+                        Console.WriteLine("hai scelto male");
                         break;
                 }
 

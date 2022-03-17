@@ -1,0 +1,13 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/bin/Debug/netcoreapp3.1/BancomatSimulator.deps.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/bin/Debug/netcoreapp3.1/BancomatSimulator.runtimeconfig.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/bin/Debug/netcoreapp3.1/BancomatSimulator.runtimeconfig.dev.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/bin/Debug/netcoreapp3.1/BancomatSimulator.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/bin/Debug/netcoreapp3.1/BancomatSimulator.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/obj/Debug/netcoreapp3.1/BancomatSimulator.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/obj/Debug/netcoreapp3.1/BancomatSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/obj/Debug/netcoreapp3.1/BancomatSimulator.AssemblyInfoInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/obj/Debug/netcoreapp3.1/BancomatSimulator.AssemblyInfo.cs
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/obj/Debug/netcoreapp3.1/BancomatSimulator.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/obj/Debug/netcoreapp3.1/BancomatSimulator.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/obj/Debug/netcoreapp3.1/BancomatSimulator.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/BancomatSimulator/BancomatSimulator/obj/Debug/netcoreapp3.1/BancomatSimulator.genruntimeconfig.cache
