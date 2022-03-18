@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{B67CAF74-D2F6-4AD5-8EB8-0C901E6B1102}|Default">
-  <MonoDevelop.Ide.ItemProperties.BancomatSimulator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BancomatSimulator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BancomatSimulator/gestioneBancomat.cs">
     <Files>
-      <File FileName="BancomatSimulator/Program.cs" Line="9" Column="1" />
-      <File FileName="BancomatSimulator/gestioneBancomat.cs" Line="5" Column="10" />
+      <File FileName="BancomatSimulator/Program.cs" Line="53" Column="1" />
+      <File FileName="BancomatSimulator/gestioneBancomat.cs" Line="15" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

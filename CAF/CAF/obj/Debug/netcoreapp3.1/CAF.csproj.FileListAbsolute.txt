@@ -1,0 +1,13 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/obj/Debug/netcoreapp3.1/CAF.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/obj/Debug/netcoreapp3.1/CAF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/obj/Debug/netcoreapp3.1/CAF.AssemblyInfoInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/obj/Debug/netcoreapp3.1/CAF.AssemblyInfo.cs
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/obj/Debug/netcoreapp3.1/CAF.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/bin/Debug/netcoreapp3.1/CAF.deps.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/bin/Debug/netcoreapp3.1/CAF.runtimeconfig.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/bin/Debug/netcoreapp3.1/CAF.runtimeconfig.dev.json
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/bin/Debug/netcoreapp3.1/CAF.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/bin/Debug/netcoreapp3.1/CAF.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/obj/Debug/netcoreapp3.1/CAF.dll
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/obj/Debug/netcoreapp3.1/CAF.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/CAF/CAF/obj/Debug/netcoreapp3.1/CAF.genruntimeconfig.cache
