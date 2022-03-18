@@ -6,7 +6,9 @@ namespace CAF
     {
         static void Main(string[] args)
         {
+
             //Person utente = new Person("Piero", "Marraffa", "Maschio", 22, 1, 1, 16000, 28000, 19000, 1500);
+
             Console.WriteLine("BENVENUTO!!!");
             Console.WriteLine("DEGITA: ");
             Console.WriteLine("1 per accedere al servizio");
