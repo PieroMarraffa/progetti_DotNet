@@ -138,7 +138,7 @@ namespace Biblioteca
             libri.SetValue(new Libro("i promessi sposi", "manzoni", "bompiani", 1800, 1, 2), 0);
             libri.SetValue(new Libro("lettere al padre", "kafka", "mondadori", 1900, 2, 2), 1);
             libri.SetValue(new Libro("di nuovo promessi", "carofiglio", "adelchi", 2020, 2, 1), 2);
-            libri.SetValue(new Libro("addio", "Carofiglio", "adelchi", 2008, 1, 1), 3);
+            libri.SetValue(new Libro("addio", "carofiglio", "adelchi", 2008, 1, 1), 3);
 
             return libri;
         }

@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{692445B8-2506-4FBD-97FE-11C31E9771EF}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Biblioteca/GestioneBiblioteca.cs">
     <Files>
-      <File FileName="Biblioteca/Program.cs" Line="11" Column="72" />
+      <File FileName="Biblioteca/Program.cs" Line="39" Column="73" />
       <File FileName="Biblioteca/Libro.cs" />
-      <File FileName="Biblioteca/GestioneBiblioteca.cs" Line="100" Column="18" />
+      <File FileName="Biblioteca/GestioneBiblioteca.cs" Line="141" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
