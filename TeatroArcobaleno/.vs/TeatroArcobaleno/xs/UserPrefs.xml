@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{C443032A-772F-48BB-AF76-01267DAB7710}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TeatroArcobaleno/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TeatroArcobaleno/Ausiliaria.cs">
     <Files>
       <File FileName="TeatroArcobaleno/Program.cs" Line="1" Column="1" />
+      <File FileName="TeatroArcobaleno/Sedile.cs" Line="60" Column="1" />
+      <File FileName="TeatroArcobaleno/Persona.cs" Line="61" Column="2" />
+      <File FileName="TeatroArcobaleno/Ausiliaria.cs" Line="203" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TeatroArcobaleno" expanded="True">
             <Node name="TeatroArcobaleno" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Ausiliaria.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -17,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TeatroArcobaleno FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TeatroArcobaleno PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
