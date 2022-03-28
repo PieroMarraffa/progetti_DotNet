@@ -14,6 +14,7 @@ namespace Archivio
             int scelta;
             Console.WriteLine("1) inserisci dati studenti");
             Console.WriteLine("2) leggi dati studenti");
+            Console.WriteLine("3) cerca uno studente per cognome");
             scelta = int.Parse(Console.ReadLine());
 
             try
@@ -33,9 +34,20 @@ namespace Archivio
                     MySqlCommand command = new MySqlCommand(sql, cn);
                     command.ExecuteNonQuery();
                 }
-                else
+                else if(scelta == 2)
                 {
                     string sql = "SELECT * FROM Rubrica";
+                    MySqlCommand command = new MySqlCommand(sql, cn);
+                    MySqlDataReader reader = command.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        Console.WriteLine(reader.GetString("Nome") + ", " + reader.GetString("Cognome") + ", " + reader.GetInt32("Eta"));
+                    }
+                } else if(scelta == 3)
+                {
+                    Console.WriteLine("inserisci il cognome");
+                    string cognome = Console.ReadLine();
+                    string sql = "SELECT * FROM Rubrica where Cognome = '" + cognome + "'";
                     MySqlCommand command = new MySqlCommand(sql, cn);
                     MySqlDataReader reader = command.ExecuteReader();
                     while (reader.Read())
