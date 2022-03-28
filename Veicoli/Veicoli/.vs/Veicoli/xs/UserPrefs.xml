@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9240E089-DF54-447E-9A09-FFD94B7C4DE6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Veicoli/Ausiliaria.cs">
+    <Files>
+      <File FileName="Veicoli/AutoCarro.cs" Line="35" Column="9" />
+      <File FileName="Veicoli/AutoVeicolo.cs" Line="38" Column="24" />
+      <File FileName="Veicoli/Ausiliaria.cs" Line="65" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Veicoli" expanded="True">
+            <Node name="Veicoli" expanded="True">
+              <Node name="Ausiliaria.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Veicoli FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

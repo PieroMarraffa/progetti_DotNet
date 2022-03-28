@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C08DE7D5-999B-4730-B879-74B39A6F403E}|Default">
+  <MonoDevelop.Ide.ItemProperties.magazzinoDress FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="magazzinoDress/Movimenti.cs">
+    <Files>
+      <File FileName="magazzinoDress/Program.cs" Line="13" Column="1" />
+      <File FileName="magazzinoDress/Prodotto.cs" Line="39" Column="48" />
+      <File FileName="magazzinoDress/Movimenti.cs" Line="6" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="magazzinoDress" expanded="True">
+            <Node name="magazzinoDress" expanded="True">
+              <Node name="Movimenti.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
