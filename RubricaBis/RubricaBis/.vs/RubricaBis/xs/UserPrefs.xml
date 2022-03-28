@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3A2E8B82-E1FA-4298-BE2D-ED587E7DCC78}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RubricaBis/Program.cs">
+    <Files>
+      <File FileName="RubricaBis/Program.cs" Line="33" Column="77" />
+      <File FileName="RubricaBis/Rubrica.cs" Line="53" Column="93" />
+      <File FileName="RubricaBis/DB.cs" Line="48" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RubricaBis" expanded="True">
+            <Node name="RubricaBis" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RubricaBis PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -62,7 +62,6 @@ namespace Archivio
                 Console.WriteLine("CONNESSIONE NON RIUSCITA");
                 Console.WriteLine(e.StackTrace);
             }
-
         }
     }
 }
