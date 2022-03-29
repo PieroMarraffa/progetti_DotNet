@@ -272,7 +272,6 @@ namespace PrestiFastFinanziaria
                                         Console.WriteLine("");
                                         Console.WriteLine("RICHIESTA DI PRESTITO ANNULLATA");
                                     }
-                                    primaPagina();
                                 }
                             }
 
@@ -373,52 +372,98 @@ namespace PrestiFastFinanziaria
                                 }
 
                                 Console.WriteLine("");
-                                Console.WriteLine("DIGITA L'ID DEL PRESTITO DA ACCETTARE: ");
+                                Console.WriteLine("DIGITA L'ID DEL PRESTITO: ");
 
+                                try
+                                {
+                                    int id = int.Parse(Console.ReadLine());
+                                    if (db.getPrestitiInattiviFromID(id).Item2 == true)
+                                    {
+                                        Console.WriteLine("");
+                                        Console.WriteLine("COSA VUOI FARE?");
+                                        Console.WriteLine("1) ATTIVA PRESTITO");
+                                        Console.WriteLine("2) ELIMINA RICHIESTA DI PRESTITO");
+                                        try
+                                        {
+                                            int attivare = int.Parse(Console.ReadLine());
+                                            switch (attivare)
+                                            {
+                                                case 1:
+                                                    {
+                                                        Console.WriteLine("");
+                                                        Console.WriteLine("SEI SICURO DI VOLER ACCETTARE QUESTO PRESTITO? (y per continuare, qualunque altro tasto per annullare)");
+                                                        string continua = Console.ReadLine().ToUpper();
+                                                        if (continua.Equals("Y"))
+                                                        {
+                                                            Prestito p = db.getPrestitoFromID(id);
+                                                            db.consentiPrestito(p);
+                                                            Console.WriteLine("");
+                                                            Console.WriteLine("PRESTITO ATTIVATO!");
+                                                            primaPaginaAdmin();
+                                                        }
+                                                        else
+                                                        {
+                                                            Console.WriteLine("");
+                                                            Console.WriteLine("RICHIESTA DI AGGIORNAMENTO ANNULLATA");
+                                                            primaPaginaAdmin();
+                                                        }
+                                                    };
+                                                    break;
+                                                case 2:
+                                                    {
+                                                        Console.WriteLine("");
+                                                        Console.WriteLine("SEI SICURO DI VOLER CANCELLARE QUESTO PRESTITO? (y per continuare, qualunque altro tasto per annullare)");
+                                                        string continua = Console.ReadLine().ToUpper();
+                                                        if (continua.Equals("Y"))
+                                                        {
+                                                            Prestito p = db.getPrestitoFromID(id);
+                                                            db.eliminaPrestito(p);
+                                                            Console.WriteLine("");
+                                                            Console.WriteLine("PRESTITO CANCELLATO!");
+                                                            primaPaginaAdmin();
+                                                        }
+                                                        else
+                                                        {
+                                                            Console.WriteLine("");
+                                                            Console.WriteLine("RICHIESTA DI AGGIORNAMENTO ANNULLATA");
+                                                            primaPaginaAdmin();
+                                                        }
+                                                    };
+                                                    break;
+                                                default: {
+                                                        Console.WriteLine("CODICE INSERITO NON VALIDO");
+                                                        primaPaginaAdmin();
+                                                     };
+                                                    break;
+
+                                            }
+                                        }
+                                        catch (FormatException fe)
+                                        {
+                                            Console.WriteLine("");
+                                            Console.WriteLine("HAI INSERITO UN CODICE NON RICONOSCIUTO");
+                                            primaPaginaAdmin();
+                                        }
+                                    }
+                                    else
+                                    {
+                                        Console.WriteLine("");
+                                        Console.WriteLine("L'ID DIGITATO NON È VALIDO");
+                                        primaPaginaAdmin();
+                                    }
+                                }
+                                catch (FormatException fe)
+                                {
+                                    Console.WriteLine("");
+                                    Console.WriteLine("HAI INSERITO UN CODICE NON RICONOSCIUTO");
+                                    primaPaginaAdmin();
+                                }
                             }
                             else
                             {
                                 Console.WriteLine("");
                                 Console.WriteLine("NON CI SONO PRESTITI IN ATTESA DI ATTIVAZIONE");
                             }
-
-                            try
-                            {
-                                int id = int.Parse(Console.ReadLine());
-                                if (db.getPrestitiInattiviFromID(id).Item2 == true)
-                                {
-                                    Console.WriteLine("");
-                                    Console.WriteLine("SEI SICURO DI VOLER ACCETTARE QUESTO PRESTITO? (y per continuare, qualunque altro tasto per annullare)");
-                                    string continua = Console.ReadLine().ToUpper();
-                                    if (continua.Equals("Y"))
-                                    {
-                                        Prestito p = db.getPrestitoFromID(id);
-                                        db.consentiPrestito(p);
-                                        Console.WriteLine("");
-                                        Console.WriteLine("PRESTITO ATTIVATO!");
-                                        primaPaginaAdmin();
-                                    }
-                                    else
-                                    {
-                                        Console.WriteLine("");
-                                        Console.WriteLine("RICHIESTA DI AGGIORNAMENTO ANNULLATA");
-                                        primaPaginaAdmin();
-                                    }
-                                }
-                                else
-                                {
-                                    Console.WriteLine("");
-                                    Console.WriteLine("L'ID DIGITATO NON È VALIDO");
-                                    primaPaginaAdmin();
-                                }
-                            }
-                            catch (FormatException fe)
-                            {
-                                Console.WriteLine("");
-                                Console.WriteLine("HAI INSERITO UN CODICE NON RICONOSCIUTO");
-                                primaPaginaAdmin();
-                            }
-
                             primaPaginaAdmin();
                         };
                         break;

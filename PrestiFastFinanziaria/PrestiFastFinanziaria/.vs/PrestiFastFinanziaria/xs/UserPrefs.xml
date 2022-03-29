@@ -2,11 +2,11 @@
   <MonoDevelop.Ide.ItemProperties.PrestiFastFinanziaria PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="PrestiFastFinanziaria/Ausiliaria.cs">
     <Files>
-      <File FileName="PrestiFastFinanziaria/Program.cs" Line="12" Column="25" />
+      <File FileName="PrestiFastFinanziaria/Program.cs" Line="10" Column="13" />
       <File FileName="PrestiFastFinanziaria/Prestito.cs" />
       <File FileName="PrestiFastFinanziaria/Persona.cs" />
       <File FileName="PrestiFastFinanziaria/DB.cs" />
-      <File FileName="PrestiFastFinanziaria/Ausiliaria.cs" Line="278" Column="40" />
+      <File FileName="PrestiFastFinanziaria/Ausiliaria.cs" Line="274" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

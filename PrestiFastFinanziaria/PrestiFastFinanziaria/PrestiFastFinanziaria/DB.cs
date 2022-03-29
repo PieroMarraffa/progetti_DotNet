@@ -170,5 +170,13 @@ namespace PrestiFastFinanziaria
             int numeroRigheInserite = command.ExecuteNonQuery();
             return numeroRigheInserite;
         }
+
+        public int eliminaPrestito(Prestito p)
+        {
+            string query = "DELETE FROM `prestitiAttivi` WHERE `idPrestito` = '" + p.getIdPrestito() + "'";
+            MySqlCommand command = new MySqlCommand(query, connection);
+            int numeroRigheInserite = command.ExecuteNonQuery();
+            return numeroRigheInserite;
+        }
     }
 }
