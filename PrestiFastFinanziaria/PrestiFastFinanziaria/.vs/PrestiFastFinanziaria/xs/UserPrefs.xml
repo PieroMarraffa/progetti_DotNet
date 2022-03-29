@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8233C421-D627-4295-893A-A2A93D9C8C69}|Default">
+  <MonoDevelop.Ide.ItemProperties.PrestiFastFinanziaria PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrestiFastFinanziaria/Ausiliaria.cs">
+    <Files>
+      <File FileName="PrestiFastFinanziaria/Program.cs" Line="12" Column="25" />
+      <File FileName="PrestiFastFinanziaria/Prestito.cs" />
+      <File FileName="PrestiFastFinanziaria/Persona.cs" />
+      <File FileName="PrestiFastFinanziaria/DB.cs" />
+      <File FileName="PrestiFastFinanziaria/Ausiliaria.cs" Line="278" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrestiFastFinanziaria" expanded="True">
+            <Node name="PrestiFastFinanziaria" expanded="True">
+              <Node name="Ausiliaria.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
