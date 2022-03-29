@@ -283,6 +283,11 @@ namespace PrestiFastFinanziaria
 
                         } while (rateCorrette == false);
                     }
+                    else
+                    {
+                        Console.WriteLine("");
+                        Console.WriteLine("HAI INSERITO UN VALORE NON ACCETTABILE");
+                    }
                 }
 
                 catch (FormatException fe)
