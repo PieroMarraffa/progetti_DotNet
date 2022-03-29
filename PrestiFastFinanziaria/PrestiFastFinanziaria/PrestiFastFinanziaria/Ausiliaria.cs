@@ -243,12 +243,12 @@ namespace PrestiFastFinanziaria
                         do
                         {
                             Console.WriteLine("");
-                            Console.WriteLine("INSERISCI IL NUMERO DI RATE IN CUI VUOI ESTINGUERE IL PRESTITO (min 36, max 60");
+                            Console.WriteLine("INSERISCI IL NUMERO DI RATE IN CUI VUOI ESTINGUERE IL PRESTITO (min 3, max 5");
 
                             try
                             {
                                 int nRate = int.Parse(Console.ReadLine());
-                                if (nRate >= 36 && nRate <= 60)
+                                if (nRate >= 3 && nRate <= 5)
                                 {
                                     rateCorrette = true;
                                     Console.WriteLine("");
@@ -256,7 +256,7 @@ namespace PrestiFastFinanziaria
                                     Console.WriteLine("");
                                     Console.WriteLine("PRESTITO RICHIESTO DA: " + persona.toString());
                                     Console.WriteLine("");
-                                    Console.WriteLine("IN DATA: " + DateTime.Today + " PER UN AMMONTARE DI: " + importo + "DA ESTINGUERE IN: " + nRate + " MENSILI");
+                                    Console.WriteLine("IN DATA: " + DateTime.Today + " PER UN AMMONTARE DI: " + importo + "DA ESTINGUERE IN: " + nRate + " ANNI");
                                     Console.WriteLine("");
                                     Console.WriteLine("VUOI CONTINUARE? (y per continuare, qualunque altro tasto per annullare)");
                                     string continua = Console.ReadLine().ToUpper();
@@ -343,7 +343,7 @@ namespace PrestiFastFinanziaria
                                 foreach (Prestito prestito in attivi)
                                 {
                                     Console.WriteLine("");
-                                    Console.WriteLine("Data attivazione: " + prestito.getDataAttivazione() + " Importo: " + prestito.getImporto() + " mensilità: " + prestito.getNRate());
+                                    Console.WriteLine("Data attivazione: " + prestito.getDataAttivazione() + " Importo: " + prestito.getImporto() + " mensilità: " + prestito.getNRate() + " utente: " + prestito.getPersona().toString());
                                 }
                             }
                             else Console.WriteLine("NON CI SONO PRESTITI ATTIVI");

@@ -165,7 +165,7 @@ namespace PrestiFastFinanziaria
 
         public int consentiPrestito(Prestito p)
         {
-            string query = "UPDATE `prestitiAttivi` SET `esito`='1' WHERE `idPrestito` = '" + p.getIdPrestito() + "'";
+            string query = "UPDATE `prestitiAttivi` SET `esito`= '1',`dataAttivazione`= '" + (DateTime.Today.ToShortDateString()) + "' WHERE `idPrestito` = '" + p.getIdPrestito() + "'";
             MySqlCommand command = new MySqlCommand(query, connection);
             int numeroRigheInserite = command.ExecuteNonQuery();
             return numeroRigheInserite;
