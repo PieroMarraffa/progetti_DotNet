@@ -1,0 +1,6 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/ZooAstratto/bin/Debug/ZooAstratto.exe
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/ZooAstratto/bin/Debug/ZooAstratto.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/ZooAstratto/obj/anycpu/Debug/ZooAstratto.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/ZooAstratto/obj/anycpu/Debug/ZooAstratto.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/ZooAstratto/obj/anycpu/Debug/ZooAstratto.exe
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/ZooAstratto/obj/anycpu/Debug/ZooAstratto.pdb

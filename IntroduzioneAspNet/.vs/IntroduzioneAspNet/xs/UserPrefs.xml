@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AF2F36E4-1C06-416C-8697-61843D5C7D82}|Default">
+  <MonoDevelop.Ide.ItemProperties.MetodiDiEstensione PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Enumerativi FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enumerativi/Program.cs">
+    <Files>
+      <File FileName="MetodiDiEstensione/Program.cs" Line="3" Column="1" />
+      <File FileName="MetodiDiEstensione/MyString.cs" Line="22" Column="30" />
+      <File FileName="Enumerativi/Program.cs" Line="12" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IntroduzioneAspNet" expanded="True">
+            <Node name="Enumerativi" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IntroduzioneAspNet PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

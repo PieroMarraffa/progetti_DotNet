@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{570C937E-9D2A-4E5E-A1FA-46D21D77CFC3}|Default">
+  <MonoDevelop.Ide.ItemProperties.ZooAstratto FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZooAstratto/Program.cs">
+    <Files>
+      <File FileName="ZooAstratto/Program.cs" Line="9" Column="26" />
+      <File FileName="ZooAstratto/AZoo.cs" Line="33" Column="1" />
+      <File FileName="ZooAstratto/Leone.cs" Line="23" Column="10" />
+      <File FileName="ZooAstratto/Gazella.cs" Line="24" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zoo" expanded="True">
+            <Node name="Zoo" expanded="True" />
+            <Node name="ZooAstratto" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Zoo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

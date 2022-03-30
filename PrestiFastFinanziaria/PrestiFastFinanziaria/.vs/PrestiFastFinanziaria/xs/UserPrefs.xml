@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{8233C421-D627-4295-893A-A2A93D9C8C69}|Default">
   <MonoDevelop.Ide.ItemProperties.PrestiFastFinanziaria PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PrestiFastFinanziaria/Ausiliaria.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrestiFastFinanziaria/DB.cs">
     <Files>
       <File FileName="PrestiFastFinanziaria/Program.cs" Line="10" Column="13" />
       <File FileName="PrestiFastFinanziaria/Prestito.cs" />
       <File FileName="PrestiFastFinanziaria/Persona.cs" />
-      <File FileName="PrestiFastFinanziaria/DB.cs" />
-      <File FileName="PrestiFastFinanziaria/Ausiliaria.cs" Line="274" Column="38" />
+      <File FileName="PrestiFastFinanziaria/DB.cs" Line="168" Column="184" />
+      <File FileName="PrestiFastFinanziaria/Ausiliaria.cs" Line="349" Column="83" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PrestiFastFinanziaria" expanded="True">
             <Node name="PrestiFastFinanziaria" expanded="True">
-              <Node name="Ausiliaria.cs" selected="True" />
+              <Node name="DB.cs" selected="True" />
             </Node>
           </Node>
         </State>

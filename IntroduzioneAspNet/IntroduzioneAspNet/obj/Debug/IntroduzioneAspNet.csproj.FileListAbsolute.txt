@@ -1,0 +1,2 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/IntroduzioneAspNet/IntroduzioneAspNet/obj/Debug/IntroduzioneAspNet.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/IntroduzioneAspNet/IntroduzioneAspNet/obj/Debug/IntroduzioneAspNet.csproj.CoreCompileInputs.cache

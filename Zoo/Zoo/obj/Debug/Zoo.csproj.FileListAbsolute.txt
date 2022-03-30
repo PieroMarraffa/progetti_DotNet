@@ -1,0 +1,6 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/Zoo/obj/Debug/Zoo.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/Zoo/obj/Debug/Zoo.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/Zoo/bin/Debug/Zoo.exe
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/Zoo/bin/Debug/Zoo.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/Zoo/obj/Debug/Zoo.exe
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/Zoo/Zoo/obj/Debug/Zoo.pdb

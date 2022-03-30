@@ -1,0 +1,6 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/IntroduzioneAspNet/MetodiDiEstensione/bin/Debug/MetodiDiEstensione.exe
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/IntroduzioneAspNet/MetodiDiEstensione/bin/Debug/MetodiDiEstensione.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/IntroduzioneAspNet/MetodiDiEstensione/obj/anycpu/Debug/MetodiDiEstensione.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/IntroduzioneAspNet/MetodiDiEstensione/obj/anycpu/Debug/MetodiDiEstensione.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/IntroduzioneAspNet/MetodiDiEstensione/obj/anycpu/Debug/MetodiDiEstensione.exe
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/IntroduzioneAspNet/MetodiDiEstensione/obj/anycpu/Debug/MetodiDiEstensione.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{C7FB1371-6FE1-4228-A6B5-E78D6F7A4E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooAstratto", "ZooAstratto\ZooAstratto.csproj", "{570C937E-9D2A-4E5E-A1FA-46D21D77CFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FB1371-6FE1-4228-A6B5-E78D6F7A4E5F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C7FB1371-6FE1-4228-A6B5-E78D6F7A4E5F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C7FB1371-6FE1-4228-A6B5-E78D6F7A4E5F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C7FB1371-6FE1-4228-A6B5-E78D6F7A4E5F}.Release|anycpu.Build.0 = Release|anycpu
+		{570C937E-9D2A-4E5E-A1FA-46D21D77CFC3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{570C937E-9D2A-4E5E-A1FA-46D21D77CFC3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{570C937E-9D2A-4E5E-A1FA-46D21D77CFC3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{570C937E-9D2A-4E5E-A1FA-46D21D77CFC3}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A5CFDD1-2CBE-48E6-A481-625EBF2C885B}
+	EndGlobalSection
+EndGlobal
