@@ -31,8 +31,6 @@ namespace ZooAstratto
             this.azione = true;
         }
 
-        public virtual string getAzione() {
-            return "";
-        }
+        public abstract string getAzione();
     }
 }

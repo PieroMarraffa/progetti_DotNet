@@ -1,0 +1,6 @@
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/MazzoDiCarte/MazzoDiCarte/bin/Debug/MazzoDiCarte.exe
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/MazzoDiCarte/MazzoDiCarte/bin/Debug/MazzoDiCarte.pdb
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/MazzoDiCarte/MazzoDiCarte/obj/Debug/MazzoDiCarte.csproj.AssemblyReference.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/MazzoDiCarte/MazzoDiCarte/obj/Debug/MazzoDiCarte.csproj.CoreCompileInputs.cache
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/MazzoDiCarte/MazzoDiCarte/obj/Debug/MazzoDiCarte.exe
+/Users/pieromarraffa/Documents/GitHub/progetti_DotNet/MazzoDiCarte/MazzoDiCarte/obj/Debug/MazzoDiCarte.pdb
