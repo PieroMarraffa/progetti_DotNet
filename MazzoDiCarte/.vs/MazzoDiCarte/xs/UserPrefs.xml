@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{82CAFB44-DCF4-40F2-A833-A3A9A4A3822C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MazzoDiCarte/Mazzo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MazzoDiCarte/Program.cs">
     <Files>
-      <File FileName="MazzoDiCarte/Program.cs" Line="33" Column="14" />
+      <File FileName="MazzoDiCarte/Program.cs" Line="38" Column="50" />
       <File FileName="MazzoDiCarte/Valori.cs" />
       <File FileName="MazzoDiCarte/Semi.cs" />
       <File FileName="MazzoDiCarte/Carta.cs" />
-      <File FileName="MazzoDiCarte/Mazzo.cs" Line="1" Column="1" />
+      <File FileName="MazzoDiCarte/Mazzo.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MazzoDiCarte" expanded="True">
             <Node name="MazzoDiCarte" expanded="True">
-              <Node name="Mazzo.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

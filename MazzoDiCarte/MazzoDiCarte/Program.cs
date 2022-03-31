@@ -33,14 +33,12 @@ namespace MazzoDiCarte
             }
 
             //MOSTRA LE CARTE RIMASTE
-            /*
             Console.WriteLine("");
             Console.WriteLine("CARTE RIMASTE: ");
-            foreach (var item in mazzo)
+            foreach (var item in mazzo.getMazzo())
             {
                 Console.WriteLine(item.toString());
             }
-            */
         }
     }
 }

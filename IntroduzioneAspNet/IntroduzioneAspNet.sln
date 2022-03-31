@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodiDiEstensione", "Metod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerativi", "Enumerativi\Enumerativi.csproj", "{AF2F36E4-1C06-416C-8697-61843D5C7D82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventiECallback", "EventiECallback\EventiECallback.csproj", "{6426B97B-4DEC-4495-81A0-2FA2D6A85FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatiNET", "DelegatiNET\DelegatiNET.csproj", "{AA8F9055-392D-401E-B08B-EDA0CABBD148}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -27,6 +31,14 @@ Global
 		{AF2F36E4-1C06-416C-8697-61843D5C7D82}.Debug|anycpu.Build.0 = Debug|anycpu
 		{AF2F36E4-1C06-416C-8697-61843D5C7D82}.Release|anycpu.ActiveCfg = Release|anycpu
 		{AF2F36E4-1C06-416C-8697-61843D5C7D82}.Release|anycpu.Build.0 = Release|anycpu
+		{6426B97B-4DEC-4495-81A0-2FA2D6A85FB0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6426B97B-4DEC-4495-81A0-2FA2D6A85FB0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6426B97B-4DEC-4495-81A0-2FA2D6A85FB0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6426B97B-4DEC-4495-81A0-2FA2D6A85FB0}.Release|anycpu.Build.0 = Release|anycpu
+		{AA8F9055-392D-401E-B08B-EDA0CABBD148}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{AA8F9055-392D-401E-B08B-EDA0CABBD148}.Debug|anycpu.Build.0 = Debug|anycpu
+		{AA8F9055-392D-401E-B08B-EDA0CABBD148}.Release|anycpu.ActiveCfg = Release|anycpu
+		{AA8F9055-392D-401E-B08B-EDA0CABBD148}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

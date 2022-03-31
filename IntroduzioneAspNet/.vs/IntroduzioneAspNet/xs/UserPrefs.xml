@@ -1,19 +1,26 @@
 ﻿<Properties StartupConfiguration="{AF2F36E4-1C06-416C-8697-61843D5C7D82}|Default">
+  <MonoDevelop.Ide.ItemProperties.DelegatiNET FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.MetodiDiEstensione PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Enumerativi FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Enumerativi/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.EventiECallback FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DelegatiNET/Program.cs">
     <Files>
       <File FileName="MetodiDiEstensione/Program.cs" Line="3" Column="1" />
-      <File FileName="MetodiDiEstensione/MyString.cs" Line="22" Column="30" />
+      <File FileName="MetodiDiEstensione/MyString.cs" />
       <File FileName="Enumerativi/Program.cs" Line="12" Column="48" />
+      <File FileName="EventiECallback/Program.cs" Line="39" Column="26" />
+      <File FileName="EventiECallback/Matematica.cs" Line="6" Column="9" />
+      <File FileName="EventiECallback/NewMath.cs" Line="11" Column="35" />
+      <File FileName="DelegatiNET/Program.cs" Line="10" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="IntroduzioneAspNet" expanded="True">
-            <Node name="Enumerativi" expanded="True">
+            <Node name="DelegatiNET" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="EventiECallback" expanded="True" />
           </Node>
         </State>
       </Pad>
