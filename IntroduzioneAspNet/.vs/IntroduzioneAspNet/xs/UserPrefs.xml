@@ -3,24 +3,17 @@
   <MonoDevelop.Ide.ItemProperties.MetodiDiEstensione PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Enumerativi FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EventiECallback FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DelegatiNET/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strutture/Program.cs">
     <Files>
-      <File FileName="MetodiDiEstensione/Program.cs" Line="3" Column="1" />
-      <File FileName="MetodiDiEstensione/MyString.cs" />
-      <File FileName="Enumerativi/Program.cs" Line="12" Column="48" />
-      <File FileName="EventiECallback/Program.cs" Line="39" Column="26" />
-      <File FileName="EventiECallback/Matematica.cs" Line="6" Column="9" />
-      <File FileName="EventiECallback/NewMath.cs" Line="11" Column="35" />
-      <File FileName="DelegatiNET/Program.cs" Line="44" Column="44" />
+      <File FileName="Strutture/Program.cs" Line="13" Column="86" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="IntroduzioneAspNet" expanded="True">
-            <Node name="DelegatiNET" expanded="True">
+            <Node name="Strutture" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="EventiECallback" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,6 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Strutture FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

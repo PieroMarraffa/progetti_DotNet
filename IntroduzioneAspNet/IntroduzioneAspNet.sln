@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventiECallback", "EventiEC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatiNET", "DelegatiNET\DelegatiNET.csproj", "{AA8F9055-392D-401E-B08B-EDA0CABBD148}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strutture", "Strutture\Strutture.csproj", "{23CEB749-F691-4A41-B35D-B9F9E90AA7B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -39,6 +41,10 @@ Global
 		{AA8F9055-392D-401E-B08B-EDA0CABBD148}.Debug|anycpu.Build.0 = Debug|anycpu
 		{AA8F9055-392D-401E-B08B-EDA0CABBD148}.Release|anycpu.ActiveCfg = Release|anycpu
 		{AA8F9055-392D-401E-B08B-EDA0CABBD148}.Release|anycpu.Build.0 = Release|anycpu
+		{23CEB749-F691-4A41-B35D-B9F9E90AA7B4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{23CEB749-F691-4A41-B35D-B9F9E90AA7B4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{23CEB749-F691-4A41-B35D-B9F9E90AA7B4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{23CEB749-F691-4A41-B35D-B9F9E90AA7B4}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
