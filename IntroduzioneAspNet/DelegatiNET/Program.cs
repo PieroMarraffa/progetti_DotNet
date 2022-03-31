@@ -38,6 +38,10 @@ namespace DelegatiNET
              *  
              *  9. PREDICATE
              *       è un caso di func che da in uscita il bool visto che è un caso molto frequente
+             *       
+             * 10. PREDICATE   CON DELEGATO ANONIMO
+             *       
+             * 11. PREDICATE CON LAMBDA EXP
              */
 
 
@@ -91,6 +95,15 @@ namespace DelegatiNET
             //99999
             Predicate<string> predicate = Maiuscolo;
             bool maiuscolo = predicate("PIPPO");
+
+            //10 10 10
+            Predicate<string> is_upper = delegate (string str)
+            {
+                return str.Equals(str.ToUpper());
+            };
+
+            //11 11 11
+            Predicate<string> is_upper2 = (str) => str.Equals(str.ToUpper());
         }
 
 

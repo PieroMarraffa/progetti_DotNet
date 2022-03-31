@@ -1,10 +1,16 @@
 ﻿using System;
 namespace EventiECallback
 {
-    public class Matematica
+    public static class Matematica
     {
-        public Matematica()
+        public static int aggiungi(int a, int b)
         {
+            return (a + b);
+        }
+
+        public static int moltiplica(int a, int b)
+        {
+            return (a * b);
         }
     }
 }
