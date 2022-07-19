@@ -1,4 +1,5 @@
 ﻿using System;
+using Strutture;
 
 namespace Strutture
 {
@@ -6,7 +7,10 @@ namespace Strutture
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            // le struct sono value type STACK cioè sono super veloci mentre
+            // le classi vanno nella memoria heap.
+            // tuttavia non permettono l'ereditarietà, ne hanno un costruttore di default.
+            // permettono però le interfacce e sono utili per gestire oggetti piccoli
+        } 
     }
 }
